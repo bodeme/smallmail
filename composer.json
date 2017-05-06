@@ -2,7 +2,8 @@
     "name": "mbo/smallmail",
     "require": {
         "phpmailer/phpmailer": "^5.2",
-        "twitter/bootstrap": "^3.3"
+        "twitter/bootstrap": "^3.3",
+        "components/jquery": "^3.2"
     },
     "authors": [
         {
